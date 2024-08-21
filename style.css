@@ -1,0 +1,10 @@
+.bg-img{
+    background-image: url(nature.jpg);
+    background-size: cover;
+}
+.m-top{
+    margin-top: 400px;
+}
+#card1{
+    display: none;
+}
